@@ -581,6 +581,7 @@ const path = require('path');
 | 6 | **Claude Official** | Warm cream `#f8f6f3` | Anthropic-style diagrams |
 | 7 | **OpenAI Official** | Pure white `#ffffff` | OpenAI-style diagrams |
 | 8 | **Dark Luxury** *(AI-authored)* | `#0a0a0a` deep black | Architecture docs, premium editorial — hand-craft SVG from `references/style-8-dark-luxury.md` |
+| 9 | **SuccessAmp Brand** | White `#ffffff` | Client-facing SuccessAmp report diagrams — web silos, infrastructure, data flow. Blue-forward brand (`#004863` primary, `#bb5b00` accent), Montserrat. Load `references/style-9-successamp.md` |
 
 Load `references/style-N.md` for exact color tokens and SVG patterns.
 
